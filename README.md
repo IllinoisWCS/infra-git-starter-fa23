@@ -1,2 +1,2 @@
 
-Git exercise for Infra Committee Fall 2023
+Git exercise for 23-24 Infrastructure Committee
